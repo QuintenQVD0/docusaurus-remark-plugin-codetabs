@@ -1,6 +1,6 @@
 # docusaurus-remark-plugin-codetabs
 
-Docusaurus v2 plugin to quickly create multi-language code tabs by converting code blocks to Tabs.
+Docusaurus v3 plugin to quickly create multi-language code tabs by converting code blocks to Tabs.
 
 _**Note**: as a consequence, this only works when used with Docusaurus themes containing the `Tabs` and `TabItem` components._
 
